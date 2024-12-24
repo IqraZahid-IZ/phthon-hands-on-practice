@@ -1,6 +1,3 @@
-Here's an updated and more visually appealing **README.md** with emojis and an attractive layout:
-
----
 
 # 🐍 Python Practice Tasks
 
